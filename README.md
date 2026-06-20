@@ -155,12 +155,6 @@ NHANES-Risk-Factor-Analysis/
 
 ---
 
-## Contributing
-
-See `CONTRIBUTING.md` (coming soon) for branching strategy, PR guidelines, and notebook reproduction tips.
-
----
-
 ## License & Attribution
 
 *This project was created for academic/educational purposes. All NHANES data are publicly available via the CDC.*
